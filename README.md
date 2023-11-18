@@ -28,5 +28,5 @@ Fokus dari proyek ini adalah menganalisis data yang tersedia dalam E-Commerce Pu
 
     ```shell
     cd project-submission-data-analytics/dashboard/
-    streamlit run main.py
+    streamlit run dashboard.py
     ```
